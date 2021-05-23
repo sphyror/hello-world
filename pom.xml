@@ -8,7 +8,7 @@
 		<version>2.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>mx.att.com</groupId>
+	<groupId>mx.com.att</groupId>
 	<artifactId>hello-world</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Hello World</name>
