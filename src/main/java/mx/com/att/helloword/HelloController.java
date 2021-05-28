@@ -13,6 +13,6 @@ public class HelloController extends HttpServlet {
     @Override
     protected void doGet( HttpServletRequest request, HttpServletResponse response ) throws IOException {
         PrintWriter out = response.getWriter();
-        out.print( "Hello, World!" );
+        out.print( "Hello, World, from Docker!" );
     }
 }
